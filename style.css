@@ -1,0 +1,61 @@
+/* style.css */
+
+/* Body & global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header styling */
+header {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+/* Navbar */
+.navbar {
+    margin-bottom: 20px;
+}
+
+/* Main content */
+main {
+    padding: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Box model demonstration */
+.box-demo {
+    border: 2px solid #007bff;
+    padding: 15px;
+    margin: 15px 0;
+    background-color: #e9ecef;
+}
+
+/* Form styling */
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #dee2e6;
+}
+
+/* Buttons */
+.btn-custom {
+    background-color: #007bff;
+    color: #fff;
+}
+.btn-custom:hover {
+    background-color: #0056b3;
+}
